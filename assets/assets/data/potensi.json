@@ -1,0 +1,326 @@
+[
+    {
+        "potensi": 1,
+        "gerbang": [
+            1,
+            8
+        ],
+        "judul": "Presenter",
+        "keterangan": "Jalur ini memberikan hasrat besar untuk bisa menginspirasi dan berkontribusi bagi lingkungan sekitarnya. Pemilik jalur ini perlu menunggu kemampuannya dikenali, agar apa yang mereka sampaikan bisa diterima oleh orang lain."
+    },
+    {
+        "potensi": 2,
+        "gerbang": [
+            2,
+            14
+        ],
+        "judul": "Pencipta",
+        "keterangan": "Jalur ini memberikan kemampuan kreatif untuk bisa menciptakan sesuatu yang mengagumkan dari sumber daya yang ada (uang, bakat keterampilan, tim kerja, koneksi) dan sekaligus mengelolanya. Orang dengan jalur ini umumnya tidak pernah kekurangan dan memiliki potensi untuk mendapatkan investasi, hibah atau warisan dari orang lain bahkan dari orang yang tidak dikenal"
+    },
+    {
+        "potensi": 3,
+        "gerbang": [
+            3,
+            60
+        ],
+        "judul": "Inovator",
+        "keterangan": "Jalur ini memberikan kemampuan untuk beradaptasi dengan membuat perubahan dan inovasi dalam kehidupan, pekerjaan, keluarga dan lingkungan sekitar. Pemilik jalur ini bisa menjadi sangat melankolis jika keinginannya tidak terpenuhi."
+    },
+    {
+        "potensi": 4,
+        "gerbang": [
+            4,
+            63
+        ],
+        "judul": "Investigator",
+        "keterangan": "Jalur ini memampukan seseorang untuk mencari jawaban atas segala macam pertanyaan yang muncul di hidup ini dalam bentuk hipotesis atau konsep pemikiran dan mencocokkannya berdasarkan bukti-bukti dan fakta yang telah ditemukan."
+    },
+    {
+        "potensi": 5,
+        "gerbang": [
+            5,
+            15
+        ],
+        "judul": "Asimilator",
+        "keterangan": "Jalur ini memampukan seseorang untuk bisa belajar dan terhubung dengan alam sekitar, termasuk mampu berkomunikasi dengan binatang dan tumbuhan. Mereka mampu menyerap pengetahuan dan kebijaksanaan dari lingkungan sekitar dan kemudian mereka membuat konsep pengajarannya sendiri."
+    },
+    {
+        "potensi": 6,
+        "gerbang": [
+            6,
+            59
+        ],
+        "judul": "Pemersatu",
+        "keterangan": "Jalur ini memberikan dorongan untuk membangun hubungan emosional melalui keintiman seksual dan untuk melanjutkan keturunan. Mereka mampu mendamaikan orang yang berkonflik dan menjaga agar hubungan tetap harmonis."
+    },
+    {
+        "potensi": 7,
+        "gerbang": [
+            7,
+            31
+        ],
+        "judul": "Pemimpin",
+        "keterangan": "Jalur ini memberikan kemampuan memimpin secara alami. Mereka akan memastikan orang-orang yang mereka pimpin tercukupi segala kebutuhan sandang, pangan, papan serta pendidikannya. Untuk memimpin, mereka harus dipilih dan ditunjuk oleh kelompoknya. Jika sengaja mengajukan diri, tidak ada yang akan mendengarkan dan mengikuti mereka."
+    },
+    {
+        "potensi": 8,
+        "gerbang": [
+            9,
+            52
+        ],
+        "judul": "Fokus dan Konsentrasi",
+        "keterangan": "Jalur ini memampukan seseorang berdiam diri dalam keheningan untuk fokus berpikir menyiapkan langkah dan strategi yang harus dilakukan."
+    },
+    {
+        "potensi": 9,
+        "gerbang": [
+            10,
+            20
+        ],
+        "judul": "Mindfulness",
+        "keterangan": "Jalur ini memberikan seseorang kemampuan alami untuk menyadari keberadaan dan eksistensi dirinya di dunia ini. Termasuk kesadaran untuk memberdayakan diri sendiri dan terkait dengan kebangkitan spiritual. Pemilik jalur ini mampu merawat dan menyayangi dirinya sendiri."
+    },
+    {
+        "potensi": 10,
+        "gerbang": [
+            10,
+            34
+        ],
+        "judul": "Pembujuk",
+        "keterangan": "Jalur ini mampu memberikan seseorang kemampuan alami untuk menginspirasi, meyakinkan dan memberdayakan orang lain agar mau mengikuti kemauannya. Mereka memiliki energi yang sangat besar sehingga mampu menyibukkan diri dengan berbagai pekerjaan."
+    },
+    {
+        "potensi": 11,
+        "gerbang": [
+            10,
+            57
+        ],
+        "judul": "Ahli Estetika",
+        "keterangan": "Orang dengan jalur ini memiliki intuisi yang sangat kuat, terutama dalam hal kesehatan dan pertahanan hidup. Mereka cenderung mampu menyempurnakan hal-hal standar yang perlu diperbaik Kebanyakan desainer, arsitek dan penata gaya memiliki jalur ini"
+    },
+    {
+        "potensi": 12,
+        "gerbang": [
+            11,
+            56
+        ],
+        "judul": "Narator",
+        "keterangan": "Jalur ini terkait dengan ide dan cerita. Pemilik jalur ini mampu menceritakan detail sebuah kisah dan peristiwa untuk kemudian mereka akan menceritakannya kembali dengan berbagai macam bumbu tambahan atau dengan cara dan bahasanya sendiri,"
+    },
+    {
+        "potensi": 13,
+        "gerbang": [
+            12,
+            22
+        ],
+        "judul": "Komunikator",
+        "keterangan": "Jalur ini memberikan kemampuan untuk mengekspresikan nilai dan rasa cinta terhadap seni dalam bentuk lukisan, puisi, musik dan hal-hal romantis lainnya. Mereka mampu mempengaruhi orang lain melalui perkataan dan perbuatan."
+    },
+    {
+        "potensi": 14,
+        "gerbang": [
+            13,
+            33
+        ],
+        "judul": "Saksi Hidup",
+        "keterangan": "Pemilik jalur ini memiliki memori yang kuat untuk merekam berbagai peristiwa dan kejadian dalam hidup. Mampu membagi pengetahuan dan pengalaman yang dimiliki saat diminta."
+    },
+    {
+        "potensi": 15,
+        "gerbang": [
+            16,
+            48
+        ],
+        "judul": "Tenaga Anli",
+        "keterangan": "Orang dengan jalur ini memiliki keterampilan yang mendalam berdasarkan bakatnya. Mereka orang yang sangat ahli di bidang yang mereka tekuni. Memiliki 'sense of art' yang kuat."
+    },
+    {
+        "potensi": 16,
+        "gerbang": [
+            17,
+            62
+        ],
+        "judul": "Organisatoris",
+        "keterangan": "Jalur ini memberikan kemampuan untuk menyusun hipotesis dan fakta yang berasal dari berbagai opini dan merumuskannya menjadi sebuah rencana untuk bertindak. Jalur ini juga mampu mengorganisir sebuah pekerjaan mulai dari perencanaan hingga pelaksanaan sehingga segala sesuatu berjalan dengan baik dan tepat waktu."
+    },
+    {
+        "potensi": 17,
+        "gerbang": [
+            18,
+            58
+        ],
+        "judul": "Pengoptimal",
+        "keterangan": "Jalur ini memampukan seseorang mengoreksi suatu pekerjaan, dengan tidak hanya mengkritik tetapi juga memberikan saran perbaikan sehingga pekerjaan dan kinerja menjadi lebih optimal."
+    },
+    {
+        "potensi": 18,
+        "gerbang": [
+            19,
+            49
+        ],
+        "judul": "Pembuat Aturan",
+        "keterangan": "Jalur ini membuat seseorang mampu menyaring apakah orang yang ditemuinya layak dan pantas untuk menjadi bagian dari komunitas atau dari pertemanan. Energi dari jalur ini akan memastikan bahwa anggota kelompok bersedia mematuhi aturan yang berlaku demi keamanan dan kenyamanan bersama."
+    },
+    {
+        "potensi": 19,
+        "gerbang": [
+            20,
+            34
+        ],
+        "judul": "Karisma",
+        "keterangan": "Jalur ini memampukan seseorang mewujudkan apa yang ada dalam pikirannya. Aktif bekerja dan terlihat sangat sibuk. Pemilik jalur ini memiliki pengaruh yang kuat dan sangat berkarisma."
+    },
+    {
+        "potensi": 20,
+        "gerbang": [
+            20,
+            57
+        ],
+        "judul": "Improviser",
+        "keterangan": "Jalur ini memberikan kesadaran untuk bertindak secara spontan dan intuitif. Mengetahui apa yang dibutuhkan dalam hidup ini agar menjadi lebih sehat, aman dan nyaman. Pemilik jalur ini mampu memberdayakan orang lain agar lebih sadar akan kesehatannya."
+    },
+    {
+        "potensi": 21,
+        "gerbang": [
+            21,
+            45
+        ],
+        "judul": "Alokator",
+        "keterangan": "Jalur ini memampukan seseorang memimpin dan mengontrol sumber daya miliknya untuk mencapai puncak kesuksesan."
+    },
+    {
+        "potensi": 22,
+        "gerbang": [
+            23,
+            43
+        ],
+        "judul": "Jenius",
+        "keterangan": "Jalur ini memampukan seseorang mengekspresikan pemikirannya menjadi konsep yang rapi dan terstruktur. Jalur ini sering melahirkan pemikiran dan inovasi yang jenius, bahkan mungkin gila dan out of box."
+    },
+    {
+        "potensi": 23,
+        "gerbang": [
+            24,
+            61
+        ],
+        "judul": "Pemikir",
+        "keterangan": "Pemikir selalu mencoba mencari tahu hal-hal yang belum dipahami. Mereka menyadari bahwa cepat atau lambat mereka akan menemukan jawaban yang dicari."
+    },
+    {
+        "potensi": 24,
+        "gerbang": [
+            25,
+            51
+        ],
+        "judul": "Provokator",
+        "keterangan": "Provokator memiliki energi menggugah orang lain untuk mau bersaing dengannya tanpa orang itu menyadarinya. Jalur ini mendatangkan transformasi dan kesembuhan bagi diri sendiri."
+    },
+    {
+        "potensi": 25,
+        "gerbang": [
+            26,
+            44
+        ],
+        "judul": "Wirausaha",
+        "keterangan": "Jalur ini mampu mengenali pola kesalahan yang pernah ada untuk melakukan perbaikan di masa yang akan datang. Jalur ini juga memampukan seseorang melakukan presentasi dan menjual produk dengan cara yang kreatif."
+    },
+    {
+        "potensi": 26,
+        "gerbang": [
+            27,
+            50
+        ],
+        "judul": "Pengawas",
+        "keterangan": "Jalur ini memberikan rasa tanggung jawab untuk merawat dan mengayomi. Pemilik jalur ini sangat memahami kebutuhan orang lain akan rasa aman dan nyaman. Mereka bersedia mengorbankan waktu dan tenaganya agar orang lain bisa merasa nyaman."
+    },
+    {
+        "potensi": 27,
+        "gerbang": [
+            28,
+            38
+        ],
+        "judul": "Pejuang",
+        "keterangan": "Jalur ini memberikan kekuatan untuk berjuang karena ingin memberikan makna bagi hidup ini."
+    },
+    {
+        "potensi": 28,
+        "gerbang": [
+            29,
+            46
+        ],
+        "judul": "Penjelajah",
+        "keterangan": "Jalur ini memampukan seseorang tetap bertahan dalam sebuah pekerjaan di tengah keadaan sesulit apa pun. Dalam perjalanan hidup, mereka akan menemukan hal-hal yang tidak terduga. Menjalani kehidupan dengan trial dan error untuk menemukan cara dan formula yang tepat."
+    },
+    {
+        "potensi": 29,
+        "gerbang": [
+            30,
+            41
+        ],
+        "judul": "Inisiator",
+        "keterangan": "Jalur ini memampukan seseorang berfantasi, membayangkan pengalaman yang mungkin terjadi, dan kemudian mewujudkan fantasi tersebut."
+    },
+    {
+        "potensi": 30,
+        "gerbang": [
+            32,
+            54
+        ],
+        "judul": "Transformasi",
+        "keterangan": "Jalur ini memberikan ambisi yang konsisten untuk bergerak maju. Agar berhasil pemilik jalur ini memerlukan dukungan orang lain. Sangat memahami hal-hal apa saja yang bisa memunculkan keberhasilan dan kesuksesan."
+    },
+    {
+        "potensi": 31,
+        "gerbang": [
+            34,
+            57
+        ],
+        "judul": "Intuisi Bertindak",
+        "keterangan": "Orang dengan jalur ini memiliki intuisi yang sangat kuat untuk bergerak dengan tenaga yang besar. Mereka harus mengandalkan intuisinya dalam segala aktivitas di keseharian."
+    },
+    {
+        "potensi": 32,
+        "gerbang": [
+            35,
+            36
+        ],
+        "judul": "Petualangan",
+        "keterangan": "Jalur ini memberikan keinginan untuk mengeksplorasi berbagai pengalaman emosional dan melibatkan orang lain di dalamnya."
+    },
+    {
+        "potensi": 33,
+        "gerbang": [
+            37,
+            40
+        ],
+        "judul": "Community Builder",
+        "keterangan": "Jalur ini memberikan seseorang keunikan sebagai seorang individu dan pemahaman kesetaraan bahwa tidak ada yang lebih tinggi ataupun lebih rendah di dalam sebuah kelompok ataupun komunitas.\r\nMereka memiliki kemampuan alami membangun sebuah kolaborasi dalam kelompok dan komunitas. Namun secara paradoks, mereka bisa merasa kesepian meskipun berada di tengah keramaian atau dalam kelompoknya sendiri."
+    },
+    {
+        "potensi": 34,
+        "gerbang": [
+            39,
+            55
+        ],
+        "judul": "Seniman",
+        "keterangan": "Jalur ini memberikan energi yang menjadikan emosi seseorang penuh dengan keraguan dan ketidakpastian (melankolis). Namun, di dalam kegalauan ini, kreativitas akan muncul dalam bentuk lukisan, puisi, lagu atau karya seni lainnya."
+    },
+    {
+        "potensi": 35,
+        "gerbang": [
+            42,
+            53
+        ],
+        "judul": "Kedewasaan",
+        "keterangan": "Jalur ini memberikan energi yang akan membantu seseorang untuk memulai dan menyelesaikan sebuah proyek atau pekerjaan. Mereka harus mempertimbangkan baik-baik ketika memutuskan untuk masuk ke dalam proyek atau pekerjaan. Jika tidak, mereka akan merasa terperangkap di dalamnya."
+    },
+    {
+        "potensi": 36,
+        "gerbang": [
+            47,
+            64
+        ],
+        "judul": "Nostalgia",
+        "keterangan": "Jalur ini memberikan energi kepada seseorang untuk bisa memahami apa yang terjadi pada masa lalu dan menarik pelajaran berharga dari sana."
+    }
+]
