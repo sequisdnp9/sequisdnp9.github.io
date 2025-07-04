@@ -1,0 +1,74 @@
+[
+    {
+        "profil": 1,
+        "level": "1/3",
+        "judul": "Praktisi Analitik",
+        "keterangan": "Profil ini mencakup 15.2% dari seluruh populasi.\r\nOrang-orang ini selalu berusaha mencari keamanan dan kenyamanan dalam hidupnya dengan belajar dari kesalahan orang lain. Mereka adalah sosok pembelajar seumur hidup dan mampu membimbing orang lain agar tidak jatuh dalam kesalahan yang sama. Tidak takut untuk mencoba hal-hal baru."
+    },
+    {
+        "profil": 2,
+        "level": "1/4",
+        "judul": "Sosialita Analitis",
+        "keterangan": "Profil ini mencakup 2.3% dari seluruh populasi.\r\nOrang-orang ini biasanya memiliki persahabatan yang sangat erat dengan orang tertentu, yang menjadi tempat mereka membagikan ide dan kegilaan yang dimiliki tanpa merasa sungkan. Mereka harus berada di lingkungan pertemanan yang tepat barulah bisa maksimal mengeluarkan potensi yang dimiliki. Mereka orang yang sangat supel dan suka bergaul."
+    },
+    {
+        "profil": 3,
+        "level": "2/4",
+        "judul": "Intelektual Sosial",
+        "keterangan": "Profil ini mencakup 14.4% dari seluruh populasi.\r\nOrang-orang ini membutuhkan privasi dalam hidupnya dan biasanya menyimpan potensi bakat tertentu yang bisa mengejutkan banyak orang.\r\nMereka membutuhkan orang lain untuk bisa menarik mereka keluar, agar potensi yang mereka miliki bisa dilihat oleh orang banyak. Senang bersosialisasi dan memiliki banyak jaringan pertemanan, tetapi sesekali mereka bisa memutuskan untuk menyendiri. Seringkali mereka sangat pemilih dalam berteman dan mengerjakan hal-hal yang mereka sukai."
+    },
+    {
+        "profil": 4,
+        "level": "2/5",
+        "judul": "Intelektual Kreatif",
+        "keterangan": "Profil ini mencakup 2% dari seluruh populasi.\r\nMereka memiliki inner wisdom dan pengetahuan yang mendalam sebagai hasil perenungan yang mereka lakukan. Ketika mereka bersuara, orang lain akan terpesona dengan pengetahuan yang mereka miliki. Memiliki kemampuan untuk membujuk orang lain tanpa disadari. Ahli dalam menyempurnakan."
+    },
+    {
+        "profil": 5,
+        "level": "3/5",
+        "judul": "Praktisi Inovatif",
+        "keterangan": "Profil ini mencakup 14.1% dari seluruh populasi.\r\nMereka adalah orang-orang yang mampu melihat sebuah masalah dari sudut pandang yang berbeda dan mampu menjadi pemben solusi. Tidak terlalu suka dengan aturan dan rutinitas yang mengekang. Sering disalahpahami karena memiliki pemikiran yang terlalu maju dan terlalu cepat dibandingkan dengan situasi yang ada. Mereka adalah orang-orang yang ahli dalam memecahkan masalah.\r\nDilema yang sering terjadi adalah bahwa orang lain melihat terlalu banyak kegagalan dan kekecewaan yang mereka alami tetapi orang-orang tersebut tidak mau mendengarkan atau mengikuti mereka ketika pada akhirnya mereka berhasil menemukan jalan yang benar."
+    },
+    {
+        "profil": 6,
+        "level": "3/6",
+        "judul": "Praktisi Inspiratif",
+        "keterangan": "Profil ini mencakup 1.9% dari seluruh populasi.\r\nMereka adalah orang-orang yang mampu membimbing orang lain dengan belajar dari kesalahannya sendiri. Mereka banyak melakukan kesalahan pada 30 tahun pertama, tetapi semua pembelajaran yang didapat tersebut membentuk dirinya menjadi bertumbuh seperti saat ini. Mereka dapat menceritakan kisah perjuangan inspiratif yang membuat orang lain mengikuti mereka."
+    },
+    {
+        "profil": 7,
+        "level": "4/1",
+        "judul": "Pembimbing Kehidupan",
+        "keterangan": "Profil ini mencakup 2.4% dari seluruh populasi.\r\nMereka memiliki prinsip-prinsip yang tetap dan sulit untuk berubah. Walaupun tidak belajar secara formal tentang bidang tertentu mereka sering mendapat wawasan dan kebijaksanaan dari semesta. Sering disebut sebagai guru kehidupan yang dapat dipercaya. Mereka berupaya untuk menuntun dan membimbing orang lain dengan wawasan dan intuisi yang dimiliki."
+    },
+    {
+        "profil": 8,
+        "level": "4/6",
+        "judul": "Inspirator Sosial",
+        "keterangan": "Profil ini mencakup 14.6% dari seluruh populasi.\r\nMereka mampu menggunakan keterampilan sosial yang dimiliki untuk mengajar dan mempengaruhi orang lain berdasarkan data dan fakta yang ada."
+    },
+    {
+        "profil": 9,
+        "level": "5/1",
+        "judul": "Inovator Analitis",
+        "keterangan": "Profil ini mencakup 13.9% dari seluruh populasi.\r\nMereka memiliki kemampuan alami untuk memberikan solusi praktis saat terjadi masalah dan krisis. Namun, mereka membutuhkan privasi dalam kehidupan sehari-hari.\r\nMereka mampu menyerap pengetahuan berdasarkan apa yang mereka pelajari dari orang lain atau dari buku yang dibaca dan langsung membagikannya kepada orang lain. Sangat berorientasi kepada solusi."
+    },
+    {
+        "profil": 10,
+        "level": "5/2",
+        "judul": "Innovator Intelektual",
+        "keterangan": "Profil ini mencakup 2.1% dari seluruh populasi.\r\nMereka memiliki bakat istimewa, tetapi lebih suka menyendiri. Membutuhkan motivasi yang kuat untuk mau berbagi pengetahuan dan kemampuannya kepada dunia. Mereka adalah orang yang cakap dalam pekerjaan."
+    },
+    {
+        "profil": 11,
+        "level": "6/2",
+        "judul": "Inspirator Intelektual",
+        "keterangan": "Profil ini mencakup 15% dari seluruh populasi.\r\nMereka mampu membimbing orang lain dengan wawasan dan pengalaman yang dimiliki, tetapi tidak mau menonjolkan diri. Mereka harus dikelilingi oleh orang-orang yang mendukung mereka agar tetap eksis. Mereka adalah suri teladan bagi orang orang disekelilingnya."
+    },
+    {
+        "profil": 12,
+        "level": "6/3",
+        "judul": "Inspirator Praktis",
+        "keterangan": "Profil ini mencakup 2.1% dari seluruh populasi.\r\nSelera humornya tinggi, mampu menertawakan kehidupan dan melihat kehidupan dari sudut pandang yang berbeda.\r\nMereka sangat paham bahwa kehidupan ini adalah suatu perjalanan dan proses trial and error. Di dalam setiap keberhasilan ada banyak kegagalan, dan di dalam setiap kegagalan pasti ada keberhasilan-keberhasilan kecil yang kita lalai menghitungnya. Hal ini membuat mereka tidak pernah berhenti untuk berinovasi.\r\nMereka jauh lebih tenang dalam menjalani dan menikmati hidup, serta bisa memandang kehidupan dari sisi lain yang lebih santai dan tidak serius."
+    }
+]
